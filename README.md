@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usayd</h1>
 <h3 align="center">Developer in the making!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usayd-l" alt="usayd-l" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fluidz999" target="blank"><img src="https://img.shields.io/twitter/follow/fluidz999?logo=twitter&style=for-the-badge" alt="fluidz999" /></a> </p>
 
 - 🔭 I’m currently working on [CS50 Introduction to CS50](https://github.com/stars/usayd-l/lists/cs50-course)
 
