@@ -2,7 +2,7 @@
 <h3 align="center">Developer in the making!</h3>
 
 
-- 🔭 I’m currently working on [CS50 Introduction to CS50](https://github.com/stars/usayd-l/lists/cs50-course)
+- 🔭 I’m currently working on [CS50 Introduction to Computer Science](https://github.com/stars/usayd-l/lists/cs50-course)
 
 - 🌱 I’m currently learning **Python**
 
