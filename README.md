@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usayd</h1>
-<h3 align="center">Creating intuitive and visually appealing designs and developing functional and scalable software solutions.
+<h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)
 </h3>
 
-**Digital Craftsmen (Developer, Designer and Content Creator)**
+
 
 <img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt = "programmer_gif">
 
