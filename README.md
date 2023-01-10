@@ -35,7 +35,7 @@ I’m always looking for the chance to explore new venues and learn something ne
 <p align="left">
 <a href="https://linkedin.com/in/usaydl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usaydl" height="30" width="40" /></a>
 <a href="https://www.behance.net/usayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="usayd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/usayd999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="usayd999" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@usaydswrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="usayd999" height="30" width="40" /></a>
 </p>
 
 
