@@ -26,7 +26,7 @@ I’m always looking for the chance to explore new venues and learn something ne
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 📫 How to reach me **usayd.lakhani@gmail.com**
+
 
 
 </div>
