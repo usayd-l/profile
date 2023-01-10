@@ -3,13 +3,13 @@
 </h3>
 
 
-<div align = "center" witdh = "100">
-About
+<div witdh = "100">
+<p align ="left">
+
 I have been passionate about IT and computers since the age of 7, and over the years, this passion has only continued to grow.
  
 In 2020, I developed an interest in Graphic design and later Interface design, and I have since worked on a variety of solo and collaborative projects in these fields. However, my interests have recently shifted toward programming and computer science, and I am eager to excel in these areas and become a better programmer. In the future, I hope to start my own startup and make a meaningful impact in the world of technology.
-
- I’m always looking for the chance to explore new venues and learn something new that I can apply to my work. Explore my portfolio, and feel free to get in touch with any questions
+I’m always looking for the chance to explore new venues and learn something new that I can apply to my work. Explore my portfolio, and feel free to get in touch with any questions</p>
 <img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt = "programmer_gif">
 </div>
 
