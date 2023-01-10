@@ -5,7 +5,7 @@
 
   <body>
     <div class="container">
-      <div class="image">
+      <div align = "center" class="image">
         <img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt = "programmer_gif">
       </div>
       <div padding="left" class="text">
