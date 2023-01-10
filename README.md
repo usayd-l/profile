@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usayd</h1>
-<h3 align="center">Developer in the making!</h3>
+<h3 align="center">Creating intuitive and visually appealing designs and developing functional and scalable software solutions.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usayd-l" alt="usayd-l" /></a> </p>
+**Digital Craftsmen (Developer, Designer and Content Creator)**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt = "programmer_gif">
 
 - 🔭 I’m currently working on [CS50 Introduction to CS50](https://github.com/stars/usayd-l/lists/cs50-course)
 
