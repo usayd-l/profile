@@ -1,28 +1,26 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usayd</h1>
-<h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)
-</h3>
+
 
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Usayd Lakhani</h1>
-<h3 align="center">Just a tech.</h3>
+<h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
  
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img align="right" alt="coding_img" width="380" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
 
-- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 🌱 I’m currently learning **Linux**
 
-- 💬 Ask me about **flutter, firebase, nodejs**
+- 👯 I’m looking to collaborate on **Python projects**
 
-- 📫 How to reach me **mailwahab247@gmail.com**
 
-- 🐍 `print(random.choice(dev_quote))`
+
+- 📫 How to reach me **usayd.lakhani@gmail.com**
+
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
