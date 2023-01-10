@@ -4,16 +4,21 @@
 
 
 <div align = "center" witdh = "100">
+About
+I have been passionate about IT and computers since the age of 7, and over the years, this passion has only continued to grow.
+ 
+In 2020, I developed an interest in Graphic design and later Interface design, and I have since worked on a variety of solo and collaborative projects in these fields. However, my interests have recently shifted toward programming and computer science, and I am eager to excel in these areas and become a better programmer. In the future, I hope to start my own startup and make a meaningful impact in the world of technology.
+
+ I’m always looking for the chance to explore new venues and learn something new that I can apply to my work. Explore my portfolio, and feel free to get in touch with any questions
 <img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt = "programmer_gif">
 </div>
 
-- 🔭 I’m currently working on [CS50 Introduction to CS50](https://github.com/stars/usayd-l/lists/cs50-course)
 
-- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Photoshop and Design**
 
-- ⚡ Fun fact **Previous Graphic and UI/UX Designer**
+- 🌱 I’m currently learning **Linux**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
