@@ -12,6 +12,13 @@
   </p>
 
 Versatile developer with a strong background in both programming and design, skilled in creating visually-appealing, user-friendly web and mobile applications.
+<details>
+<summary><h3>My Journey</h3></summary>
+About
+I have been passionate about IT and computers since the age of 7, and over the years, this passion has only continued to grow.
+ 
+In 2020, I developed an interest in Graphic design and later Interface design, and I have since worked on a variety of solo and collaborative projects in these fields. However, my interests have recently shifted toward programming and computer science, and I am eager to excel in these areas and become a better programmer. In the future, I hope to start my own startup and make a meaningful impact in the world of technology.
+I’m always looking for the chance to explore new venues and learn something new that I can apply to my work. Explore my portfolio, and feel free to get in touch with any questions
 
 
 
