@@ -1,14 +1,13 @@
 
 
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Usayd Lakhani</h1>
 <h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)</h3>
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=usayd-l&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
  
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="center" alt="coding_img" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </p>
 
 Versatile developer with a strong background in both programming and design, skilled in creating visually-appealing, user-friendly web and mobile applications.
