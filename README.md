@@ -8,7 +8,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
  
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="360" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="coding_img" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </p>
 
 Versatile developer with a strong background in both programming and design, skilled in creating visually-appealing, user-friendly web and mobile applications.
