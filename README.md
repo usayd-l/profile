@@ -4,7 +4,7 @@
 <h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif">
+  <img src="https://cdn.discordapp.com/attachments/993420540092092426/1067055962244001813/bgmoving2.gif">
 </p>
 
 # 💫 About Me:
@@ -21,11 +21,6 @@ Versatile developer with a strong background in both programming and design, ski
 ![](https://github-readme-streak-stats.herokuapp.com/?user=usayd-l&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usayd-l&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=usaydl)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=usayd-l&icon=0&color=0)](https://visitcount.itsvg.in)
