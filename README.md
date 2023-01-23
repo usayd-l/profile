@@ -4,7 +4,7 @@
 <h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)</h3>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/857714045251878972/977153774206476318/revenge_hotlinenct_dream.gif">
+  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif">
 </p>
 
 # 💫 About Me:
