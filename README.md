@@ -3,6 +3,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Usayd Lakhani</h1>
 <h3 align="center">Digital Craftsmen (Developer, Designer and Content Creator)</h3>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/857714045251878972/977153774206476318/revenge_hotlinenct_dream.gif">
+</p>
 
 # 💫 About Me:
 Versatile developer with a strong background in both programming and design, skilled in creating visually-appealing, user-friendly web and mobile applications.<br><br>
